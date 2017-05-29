@@ -1,0 +1,6 @@
+img{width:146px;height:120px;opacity:0.5;display:inline;margin:3px;border:1px solid #bebene;}
+.desc{width:100x;height:20px;text-align:center;margin:0px auto;}
+.imgage{width:150px;height:150px;float:left;border:1px solid #ccc;}
+a:hover img{opacity:1;}
+a:hover img{border:1px solid #333;}
+
